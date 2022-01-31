@@ -39,7 +39,7 @@
 ### ex) echo *.doc > .gitignore
 
 doc 파일에 대한 무시 설정
-를 참고하거나 직접 ignore 파일에 들어가 해당 포맷을 추가합니다.
+를 참고하거나 직접 ignore 파일에 들어가 해당 포맷을 추가합니다.  
 [gitigonre 관련 참고 사이트](https://velog.io/@psk84/.gitignore-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 
