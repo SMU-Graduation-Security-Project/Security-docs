@@ -23,7 +23,8 @@
 **git branch (branch name)**  
 **git checkout (branch name)**  
 **git switch (branch name)**  
-위에 해당하는 모든 명령어는 Branch를 만드는 명령어입니다. 자신이 원하는 명령어를 통해 사용하기 바랍니다.
+위에 해당하는 모든 명령어는 Branch를 만드는 명령어입니다. 
+자신이 원하는 명령어를 통해 사용하기 바랍니다.
 만약 Banch를 만들고 바로 이동하기를 원한다면 다음의 명령을 사용해셔 진행을 합니다.
 
 **git checkout -b (branch name)**  해당 branch를 만들고 바로 이동합니다.  
