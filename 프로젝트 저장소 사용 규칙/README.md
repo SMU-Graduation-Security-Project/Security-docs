@@ -31,6 +31,16 @@
 **git switch -C (branch name)**  해당 명령어도 같은 작업을 합니다.
 
 ### 세번째 (add 방법 및 commit 규칙)
+#### git add *
+기본적으로 해당 명령어를 사용하면 모든 파일들이 add가 되기는 하나 해당 기능은 되도록 사용을 자제하거나 사용하려고 한다면 ignore규칙을 정의해서 올라가면 안되는 파일들을 정의하고 사용하기 바랍니다.
+**해당 규칙을 위반하면 안됩니다.**  
+
+### git ignore규칙 정의 방법
+### ex) echo *.doc > .gitignore
+
+doc 파일에 대한 무시 설정
+를 참고하거나 직접 ignore 파일에 들어가 해당 포맷을 추가합니다.
+[gitigonre 관련 참고 사이트](https://velog.io/@psk84/.gitignore-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 
 # 주의사항(merge)
