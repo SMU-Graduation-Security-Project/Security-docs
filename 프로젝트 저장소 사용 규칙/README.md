@@ -5,12 +5,12 @@
 **git config --global user.name "github아이디"**  
 **git config --global user.email "email"**  
 만약 토큰 인증이 뜬다면 해당 token을 동일하게 config에 저장해서 해결합니다.
-자세한 방법은 다음의 주소에 가서 참고해서 설정하기 바랍니다.
+자세한 방법은 다음의 주소에 가서 참고해서 설정하기 바랍니다.  
 [git token 로그인 방법](https://velog.io/@jini_eun/Github-2021%EB%85%84-8%EC%9B%94-13%EC%9D%BC%EB%B6%80%ED%84%B0-%ED%86%A0%ED%81%B0-%EC%9D%B8%EC%A6%9D-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EB%B3%80%ED%99%94).
 
 **두번째(부가/추가) 설정**  
 **CLRLF 관련 설정**
-기본적으로 프로젝트를 진행하는 모든 사용환경은 window이지만 프로젝트를 진행하다가 문제가 발생할 수 있으므로 해당 설정은 기본적으로 켜 적용합니다.
+기본적으로 프로젝트를 진행하는 모든 사용환경은 window이지만 프로젝트를 진행하다가 문제가 발생할 수 있으므로 해당 설정은 기본적으로 켜 적용합니다.  
 **git config --global core.autocrlf true**  
 
 ### 저장소를 사용하기 위한 방법 및 규칙들
