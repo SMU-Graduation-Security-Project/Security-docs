@@ -42,13 +42,13 @@ Repository 주소: https://github.com/SMU-Graduation-Security-Project/Security-d
 | 회의내용             | `2022_황제펭귄_회의내용-X.X.md `         | /회의내용       | X는 월.일                            |
 | 프로젝트 진행일지    | `2022_프로젝트 진행일지(O X.X).doc/pdf ` | / 프로젝트 일지 | O는 준비, 회의, 스터디, 배포, 개발 X는 월.일 |
 | 프로젝트 저장소 규칙 | `2022_프로젝트 저장소 규칙.md `          | /저장소 규칙    |                                      |
-| 프로젝트 개발 자료들 | `파일원본이름 또는 어떠한 내용인지 올려주시면됩니다.`| /프로젝트 개발자료 |                              |
+| 프로젝트 개발 자료 | `파일원본이름 또는 어떠한 내용인지 올려주시면됩니다.`| /프로젝트 개발자료 |                              |
 
 
 ## 팀프로젝트 협업 도구
-[![Notion](https://github.com/arad4228/2021_winter/blob/main/Security_Web_Project/SourceFile/99058A425C35772D0A.png)](https://www.notion.so/2022-0f0c58dd61a54d2d981d36cbb33fe80f)
+[![Notion](https://github.com/arad4228/2021_winter/blob/main/Security_Web_Source/Notion.png)](https://www.notion.so/2022-0f0c58dd61a54d2d981d36cbb33fe80f)
 </br>
 
 ## 팀프로젝트 회의 링크
-[![GatherTown](https://github.com/arad4228/2021_winter/blob/main/Security_Web_Project/SourceFile/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202022-02-03%20%EC%98%A4%ED%9B%84%209.13.12.png)](https://gather.town/invite?token=RzRSypa-RuM7iBzwl9fsMO_vLmk2QTck)
+[![GatherTown](https://github.com/arad4228/2021_winter/blob/main/Security_Web_Source/Gather.png)](https://gather.town/invite?token=RzRSypa-RuM7iBzwl9fsMO_vLmk2QTck)
 </br>
