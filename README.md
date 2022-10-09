@@ -55,3 +55,6 @@ Repository 주소: https://github.com/SMU-Graduation-Security-Project/Security-d
 ## 팀프로젝트 회의 링크
 [![GatherTown](https://github.com/arad4228/2021_winter/blob/main/Security_Web_Source/Gather.png)](https://gather.town/invite?token=RzRSypa-RuM7iBzwl9fsMO_vLmk2QTck)
 </br>
+
+## 상명은행 웹사이트 메인 화면
+![SangmyungBank_main](https://user-images.githubusercontent.com/94200623/194737246-1254fdd6-ffa9-4547-8b40-75d3fa079c4f.png)
