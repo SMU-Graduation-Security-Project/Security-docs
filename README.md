@@ -6,7 +6,7 @@
 
 | 팀원  | 역할                                                | 책임                                                 |
 |------|---------------------------------------------------|------------------------------------------------------|
-| 정경재 | PM, BackEnd Developer, Security Development       | 프로젝트 총 책임, 백엔드 개발, TLS 보안 로그인 개발            |
+| 정경재 | PM, BackEnd Developer, Security Development       | 프로젝트 총 책임, 백엔드 개발, TLS 보안 로그인 개발            |
 | 김도현 | BackEnd Developer                                 | 백엔드 개발                                            |
 | 김성호 | FrontEnd Manager                                  | 프론트엔드 개발                                         |
 | 이유민 | Second PM, BackEnd Leader                         | 프로젝트 총 책임 보조 ,백엔드 개발, TLS 보안 로그인 개발        |
